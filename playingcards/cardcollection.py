@@ -1,5 +1,5 @@
 from random import randint, shuffle
-from . import card
+import card
 
 
 class MaxCardsReached(Exception):
